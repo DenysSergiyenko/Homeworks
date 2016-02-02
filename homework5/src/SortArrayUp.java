@@ -9,7 +9,7 @@ public class SortArrayUp {
         for (int j = 0; j < arr.length-1; j++) {
             int maxElement = j;
             int maxValue = arr[j];
-            if (j==3) {
+            if (j==3) {  //желательно не используемые куски кода убирать
                 //System.out.println("maxElement =" + maxElement);
                 //System.out.println("maxValue =" + maxValue);
             }
