@@ -47,6 +47,6 @@ public class Directory {
                 break;
             }
 
-        } while (dirName=="");
+        } while (dirName=="");  //для сравнения обьектов нужно использовать метод equals
     }
 }
