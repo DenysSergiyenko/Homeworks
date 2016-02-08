@@ -6,7 +6,7 @@ public class Homework3_task1 {
     public static void main(String[] args)  {
         System.out.println("Homework3 task1:");
 
-        Directory Folder1 = new Directory("DirecotryWithFiles");
+        Directory Folder1 = new Directory("DirecotryWithFiles"); // Folder1 - пишется с маленькой буквы ;)
         TextFile tf1 = new TextFile("abc." , "doc");
         AudioFile af1 = new AudioFile("For whom the bell tolls");
         VideoFile vf1 = new VideoFile("Monsters Inc");
